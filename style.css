@@ -1,0 +1,202 @@
+*{box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logov{width: 100vw;
+    height: 49px;
+    padding: 15px 60px 10px 60px;
+    background-color: #3366CC;}
+
+.logov_im1{width: 85.09px;
+height: 20px;
+}
+
+.logicfes{width: 100vw;
+    height: 75px;
+    padding:9px 80px 8px 160px ;
+   
+
+}
+
+.logicfes_im1 img{width: 116px;
+height: 60px;
+margin-right: 655px;
+
+}
+
+.logicfes_im2 img{width: 276px;
+    height: 53px;
+}
+
+.bienvenida{position: relative;
+    width: 100vw;
+    height: 360px;
+    margin: 10px auto 0px auto;
+    background-image: url(/HTML/EJERCICIOS/ICFES/fondos_04-celeste.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    /* 1920*540 */
+    
+}
+
+.bienve{margin: 0px 0px 0px 107.906px;
+padding-top: 12px;}
+
+.banner{position: absolute;
+    top: 0px;
+    left: 745px;
+    width: 600px;
+height: 360px;}
+
+.exaa{width: 370px;
+height: 124px;}
+
+.exa{width: 340px;
+height: 100px;
+margin: 10px 10px 10px 16px;
+}
+
+.cita{width: 280px;
+height: 100px;
+margin: 10px 10px 10px 26px;
+}
+
+.bienve_h1{ 
+    margin: 21.44px 0px;
+    text-align: left;
+    color: white;
+    font-size: 32px;}
+
+.bienve_h3{margin: 18.72px 0px;
+    font-weight: bold;
+    font-size: 18.72px;
+    color: #004899;}
+
+.descubre{position: relative;
+    width: 100vw;
+    height: 250px;
+    margin: 0 auto;
+    padding: 30px 0;
+    background-color: #1e2f97;}
+
+.descubre h1{margin: 21.44px 0px 21.44px 134.891px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    color: #FFF;
+}
+
+.descubre_a1{margin: 21.44px 0px 21.44px 134.891px;
+    color: #b6e116;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: underline;
+
+}
+
+.descubre_a1:hover{color: #2cd5f2;}
+
+.descubre_im1{position: absolute;
+    top: 0px;
+    left: 938px;
+    width: 376x;
+    height: 250px;
+}
+
+.click{padding: 0.1px;
+    background-image: url(/HTML/EJERCICIOS/ICFES/fondos_04-celeste.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.click h2{margin-top: 19.92px;
+text-align: center;
+font-size: 24px;
+font-weight: bold;
+color: white;
+}
+
+.click img{width: 148px;
+height: 120px;
+margin: 14px;}
+
+.click .click_im1{width: 220px;
+    height: 110px;
+    padding-bottom: 12px;
+}
+
+.click .click_im3{width: 128px;
+    height: 120px;
+    margin: 14px;
+}
+
+.click_span{margin:0px 0px 0px 110px;}
+
+.icfes{position: relative;
+    height: 563px;
+    margin: 40px 37.453px 0px 37.453px;
+    padding: 28px 30px 30px 40px;
+    border-radius: 10px 10px 0 0;
+    background-color: #FFF;
+
+}
+
+.icfes h2{font-size: 24px;
+    color: #004899;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.icfes .icfes_im1{position: absolute;
+    top: 15px;
+    left: 900px;
+    width: 324px;
+    height: 96px;
+
+}
+
+.icfes h3{margin: 18.72px 0px 10px 0px;
+    font-size: 18.72px;
+    font-weight: bold;
+    text-align: left;
+    color: #004899;
+    
+}
+
+.icfes p{margin: 10px 0px;
+    font-size: 16px;
+    text-align: left;
+    color: #444;
+    line-height: 35px;
+}
+
+.footer{text-align: center;
+    color: #444;
+}
+
+
+
+.footer a img{width: 22px;
+    height: 22px;
+    margin: 0px 4px 0px 0px;
+    padding: 0px;
+    vertical-align: middle;
+    
+}
+
+.footer a{text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    color: #551A8B;
+    margin: 10px;
+}
+
+.foot{margin-top: 15px;}
+
+.foot a{margin: 10px;
+    font-size: 13px;
+    color: #551A8B;
+    text-decoration: underline;
+}
